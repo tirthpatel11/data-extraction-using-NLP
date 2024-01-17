@@ -1,0 +1,3 @@
+To run the python file you need to download some of the dependecies which have been written in he code. After that you will need to run the 1st cell which will extract article title and text from the respected url_id.
+
+Then run the 2nd cell which will update the given objectives in Excel file.
